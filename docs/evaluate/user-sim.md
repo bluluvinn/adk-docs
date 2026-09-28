@@ -23,7 +23,7 @@ A `ConversationScenario` consists of the following components:
     expertise or linguistic style.
 
 A sample conversation scenario for the
-[`hello_world`](https://github.com/google/adk-python/tree/main/contributing/samples/core/hello_world)
+[`hello_world`](https://github.com/google/adk-python/tree/main/contributing/core/hello_world)
 agent is shown below:
 
 ```json
